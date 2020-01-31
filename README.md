@@ -16,5 +16,5 @@ Note: All the codes are run in STATA
 
 *RegressionofNewProgramData* : Runs various linear regressions to study the effect of offshoring on wages
 
-#Paper
+# Paper
 *OffshoringWages* : The paper explains the findings of the study
